@@ -1,0 +1,77 @@
+a branch of algorithms that make predictions based on the previous data by making training models. we can say that it is a subset of ai.
+it invloves use of algorithms and statistical models to enable
+computer systems to improve performance on a specific task over time by learning from the data
+
+ml is used in market predicting
+stock prediction
+
+
+
+
+
+ai-ml in daily life
+GPT-3
+Computer Vision
+Deep Reinforcement Learning
+Federated Learning
+
+
+AI
+field of mathematics or biology that deals with study of ways to buid intelligent programs and machines taht can creatively solve problems,that has always been considered a human perogative.
+
+MML
+
+DL
+
+
+
+types of machine learning:
+supervised learing-uses labeled dataset 
+unsupervised learning- there is no label in the dataset
+semi supervised learning
+renforcement learning
+
+
+
+supervised learning 
+based on classification:
+random forest
+logistic decision tree
+
+
+unsupervised learning:
+based on clustering:
+based on 
+
+
+
+
+
+important terms of ml:
+performance
+explainability
+complexity
+dataset size
+dimensionality
+training time and cost
+inference time
+
+
+
+what is preprocessing data?
+why preprocessing data?
+
+
+data:
+incomplete-lacking vvlaues,certian attributes of interest etc.
+noisy-containing errors or outliers
+
+data cleaning(fill in missing values smooth out noise
+data integration 
+data transformation 
+data reduction
+
+
+
+numpy
+np.array(),np.ones(),np.zeros(),np.arrange,np.lin

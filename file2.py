@@ -1,0 +1,15 @@
+import time
+print ("hi how r u")
+time.sleep(5)
+print ("hello world")
+time.sleep(4)
+print ("hi how r u")
+time.sleep(2)
+print ("hello world")
+time.sleep(1)
+print ("byeeee see u ")
+while 1:
+	print ("hello world")
+	time.sleep(0.5)
+	print ("-----------")	
+	time.sleep(0.5)

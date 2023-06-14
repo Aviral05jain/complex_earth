@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "meraiotproject1",
+  "private_key_id": "5d7e62ecb6d51980348ba88cefc6b4cc747ae604",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDmQ6h/j1P9pJYF\nqlBiiwezuHo+klqBUNL54513kxs6ExaZhdoDjX4fv3ycNLHsQZYrEwYejX6A171n\naGEU+/qqsieRCh8r914cUaGvyfoe1NcjORgM8BVTNyerhASz70Y7Nap1AJr6AZ1Z\nvlxC3MX8HeFgldQ6dv08nKTbMLkxx48flZ2IDH9N++7leIp8XKWq6+/xqctRWzny\nMot+iMOH5fMwxg/Qo4JhVzZFDktog4W+gFNo6k4zSLsBnEKxFhzpJLfnV5f/jlAU\nOxBv3oPtcJYZLpxzA4jU+FKF2RVjLMS2ByzHG1HHCuhvtXL7uA6GLnsWoFhKM9p1\nnO98TFh9AgMBAAECggEAYWQGdYViqeoeBeFmRHe3Vz1UfviZzQ4pXcX2ySdwIZ0H\nNwHVFyGWUclE5DCpfFq1MBzIvs1rzwTwuDb+sMhu2hmmAIN+cbMbm/Cu6VINN1Mg\nd2ZjlL1K17qBTdr1vkEavFpTcU9DPTDHo7iO/zyvhJYCyD422E+RhjxewdKW0cVf\niLX/F82Vzic8zBXv2CoE0s5NhxZHj0mWCzMS1GkmjKs8QaQ+tVwFcse3+QMA0eT8\nH3+lREOwFWanU5ZF6s6V3c/CLwe7fYgZiw+UGTvZVanDrPqA9Fcri5uqjT+26lHI\nYuaIWyzFXytBA4ywzjIDm6zCJDcpdSHxXee3ItoJRQKBgQD3pnFgKu7X4W46Cq5O\npL2wwnBa4+8DmG4UroaAzwMopySrWCzYoPQrJFTIHtTXVpNrjhlSP1jL/btrPj4o\nr+SVnRR/dbF4pqy0pI3tl2O+U/Z55H/L0DADOmD4eU6p4tJmCLNM+DWXd57DRvJ+\njs0UKuyudejVt1EuNpokqaQcewKBgQDuBybPGjnMXl4K00iv/M3yfXNsltCGHfiY\nNj4S6PeXJgFNV6WwhsdRaZs8Duen34g4g53iYZK5eU5t5YF/K4imgBcz3XTICCz3\n8B0nDK3pviHHQBsHSMA4fThhlgJg/bNZByAkw3GyVM9qk0vXOUY+0oo3h4m2ye9P\nyl/eIRC5ZwKBgQDPt0pXCAunBM0IX9cN3X3BWYUVpyLdmCeUr0HfnkKfAXpvQRj0\nZiQGX4XBCKMrLtGdn+U7KCjZiKt/awiF5epLVyJPOi8t7FbleTQV+SnPBOuyF2bd\nU3RB8OBO6KiDM92XeWqyf2mr7sg6MDLK1gnLBanZNsqhHw43PdMSNzuQKwKBgBVL\nUH6AoyEUZCdlxX/xBt+lt3jEeT02WzIK0DzS2KuN+9nWeH01YYl4ACo8Tx8mkUI1\nDB/fiMfNAWY1fQNKerwig3DhY/wtNxCrS4Bd0wUxPEZeBsz9Bi1Hjo60Y9wXdj8F\nsyt2zKoeijvHl6ZWemFOZo0XNAvFPwKNYUw2+w8LAoGBAIWnx7POy2hFJEuj0DNq\n+JtWCsIY2PrQz9H/CGz6zWBVcP3ukLpmmA0CvxBFXH1D8byQx3O1pGqJ+SQ7IfgX\ni+keLqdqCJY1qUKMEtzjEKr8xIi4pIY5da37dE+uAlvVVIlFNrXudtuI5Aj2lG4k\nS2pq4Mr/OM8WYC4q43l4NmwR\n-----END PRIVATE KEY-----\n",
+  "client_email": "aviraliot@meraiotproject1.iam.gserviceaccount.com",
+  "client_id": "114859704131881442364",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aviraliot%40meraiotproject1.iam.gserviceaccount.com"
+}
